@@ -3,7 +3,7 @@
 you need xampp/lampp to run this project .
 create a db named `my_db` and import the sql file in your myphpadmin
 <br/>
-> :warning: **the sql file is in the db directory**
+
 
 ## 1. To download run
 
@@ -39,5 +39,7 @@ create a db named `my_db` and import the sql file in your myphpadmin
 ## 3.URL links
 
     localhost/Multi--user-role-based-login/login-index.php
+    
+ > :warning: **don't forget to give it a star**
 
 
